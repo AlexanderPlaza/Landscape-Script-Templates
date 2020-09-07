@@ -1,0 +1,1 @@
+sudo landscape-config --account-name standalone --url https://Landscape/message-system --ping-url http://Landscape/ping
